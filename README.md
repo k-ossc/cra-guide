@@ -1,6 +1,7 @@
 # EU 사이버 복원력법(CRA) 실무 가이드
 
 **디지털 제품 제조사 실무팀을 위한 기본 해설**
+<img width="1600" height="2000" alt="23일 16시 공개" src="https://github.com/user-attachments/assets/785e4317-640b-4503-a04d-749eb17e6a81" />
 
 *EU Cyber Resilience Act (CRA): A Practitioner's Guide — A basic guide for product teams at manufacturers of products with digital elements (Korean-language edition)* · [English](#in-english)
 
