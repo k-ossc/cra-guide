@@ -1,15 +1,13 @@
 # EU 사이버 복원력법(CRA) 실무 가이드
 
 **디지털 제품 제조사 실무팀을 위한 기본 해설**
-<img width="1600" height="2000" alt="23일 16시 공개" src="https://github.com/user-attachments/assets/785e4317-640b-4503-a04d-749eb17e6a81" />
-
 *EU Cyber Resilience Act (CRA): A Practitioner's Guide — A basic guide for product teams at manufacturers of products with digital elements (Korean-language edition)* · [English](#in-english)
-
 - **저자** 최윤성 (한국오픈소스보안커뮤니티 리더)
 - **발행** 한국오픈소스보안커뮤니티(K-OSSC)
 - **판** v1.0 · 발행일 2026년 11월 23일(온라인판)
 - **대상 규정** Regulation (EU) 2024/2847
 - **이용 조건** CC BY-NC 4.0 · 온라인 무료 공개 · 비매품
+<img width="1920" height="1080" alt="CRA_실무가이드_해설영상_썸네일" src="https://github.com/user-attachments/assets/1b56a4cd-3990-46bc-afbf-4fcace5046a0" />
 
 ## 내려받기
 
