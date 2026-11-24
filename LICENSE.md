@@ -7,6 +7,6 @@
 - 조건 요약: https://creativecommons.org/licenses/by-nc/4.0/
 - 조건 전문: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
-저자 표기를 유지하면 비영리 목적으로 복제·배포·전송·번안할 수 있습니다. 그 밖의 상업적 이용이나 파생 저작을 원하면 저자 또는 한국오픈소스보안커뮤니티에 연락해 주십시오.
+저자 표기를 유지하면 비영리 목적으로 복제·배포·전송·번안할 수 있습니다. 그 밖의 상업적 이용을 원하면 저자 또는 한국오픈소스보안커뮤니티에 연락해 주십시오.
 
 "EU Cyber Resilience Act (CRA): A Practitioner's Guide" and the documents in this repository are licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0).
